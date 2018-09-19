@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.everton.apppharma">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iconeapppharma"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/iconeapppharma"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TelaInicial">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FazerCompraSegundaTela" />
+        <activity android:name=".Admim" />
+        <activity android:name=".AdmimSegundaTela" />
+        <activity android:name=".CadastrarMedicamento" />
+        <activity android:name=".FazerCompra" />
+        <activity android:name=".FinalizarCompra" />
+        <activity android:name=".TelaFinalDaCompra"></activity>
+    </application>
+
+</manifest>

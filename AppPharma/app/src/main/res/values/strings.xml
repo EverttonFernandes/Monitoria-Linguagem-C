@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppPharma</string>
+    <string name="title_activity_admim_tela2">AdmimTela2</string>
+    <string name="title_activity_finalizar_compra">FinalizarCompra</string>
+</resources>

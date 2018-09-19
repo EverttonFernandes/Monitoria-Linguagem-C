@@ -1,0 +1,4 @@
+#Tue Feb 06 19:11:55 BRST 2018
+base.0=/home/everton/AndroidStudioProjects/AppPharma/app/build/intermediates/transforms/dexMerger/debug/29
+renamed.0=classes.dex
+file.0=/home/everton/AndroidStudioProjects/AppPharma/app/build/intermediates/transforms/dexMerger/debug/29/classes.dex

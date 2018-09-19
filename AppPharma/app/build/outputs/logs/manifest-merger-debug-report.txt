@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26fd545f3dc95868bf06e3d12e00bff8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26fd545f3dc95868bf06e3d12e00bff8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26fd545f3dc95868bf06e3d12e00bff8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:9:9-51
+	android:icon
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:7:9-46
+	android:allowBackup
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.everton.apppharma.TelaInicial
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:12:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.everton.apppharma.FazerCompraSegundaTela
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:19:19-57
+activity#com.example.everton.apppharma.Admim
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:20:19-40
+activity#com.example.everton.apppharma.AdmimSegundaTela
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.example.everton.apppharma.CadastrarMedicamento
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:22:19-55
+activity#com.example.everton.apppharma.FazerCompra
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:23:19-46
+activity#com.example.everton.apppharma.FinalizarCompra
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:24:19-50
+activity#com.example.everton.apppharma.TelaFinalDaCompra
+ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml:25:19-52
+uses-sdk
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26fd545f3dc95868bf06e3d12e00bff8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26fd545f3dc95868bf06e3d12e00bff8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+		INJECTED from /home/everton/AndroidStudioProjects/AppPharma/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/25e9e688057338b9814898f5973b08b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c887fd9335d2063d48708dcd7f8de15e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ff18493e58002f626a6052d5954f7e42/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/8f11eaf85fa9b502f827f051243fc493/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/3148b0bb56b3cbe355ff01aae374ab13/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/23ab03d7d056c453a0deb80597998cbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4089db6fe8d760455e47e07c44bad39b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0a5abae64a06b78760ca2a47d224e103/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/548394793d847b59d16df6d6a68c8715/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73aebb45fadccdc33f6d34dab0df7504/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3445be67ea399b1de42dbad3f6a852a8/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a52e096e28c03dee2cef0015363a8c8/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/157f32f45972daa7ba2b381181acf18b/AndroidManifest.xml:26:13-58
